@@ -3,12 +3,14 @@ This repository is based off of the current VRTK Master repository, and has been
 
 ## Description
 
-The scene can be found here: 
+The scene can be found here: Example Scene
 
 Our team built these features:
 
-### Feature 1: <description>
-Team member: <Name>
+### Feature 1: <Chicken Collecting: The interactivity here is to grab some chickens & place them into the nearby coop area.>
+Team member: <Derrick>
 
-### Feature 2: <description>
-Team member: <Name>
+### Feature 2: <Close the Gate: The interactivity here is to close the gate so logically, the chickens won't escape again. I attempted to make it close & open more cleanly but could not.>
+Team member: <Derrick>
+
+Also credit to Meshtint for the Toon Chicken prefab.
