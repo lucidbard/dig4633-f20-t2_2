@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 31853d3032c464a4888cbaf23649b22c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Scarecrow: {fileID: 2828096897765849833, guid: bc165ab4efd7149429ff92afc15a1eae,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
