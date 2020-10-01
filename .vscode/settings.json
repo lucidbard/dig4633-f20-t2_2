@@ -53,6 +53,11 @@
         "temp/":true,
         "Temp/":true,
     },
+    "git.enabled": true,
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 250
+    "files.autoSaveDelay": 250,
+    "[git-rebase]": {
+
+        "workbench.editor.restoreViewState": false
+    }
 }
