@@ -56,8 +56,12 @@
     "git.enabled": true,
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 250,
-    "[git-rebase]": {
+    "[git-commit]": {
+        
 
+        "editor.rulers": [
+            72
+        ],
         "workbench.editor.restoreViewState": false
-    }
+    },
 }
