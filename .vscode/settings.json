@@ -53,6 +53,14 @@
         "temp/":true,
         "Temp/":true,
     },
+    "git.enabled": true,
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 250
+    "files.autoSaveDelay": 250,
+    "[git-commit]": {
+
+        "editor.rulers": [
+            72
+        ],
+        "workbench.editor.restoreViewState": false
+    }
 }
