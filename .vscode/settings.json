@@ -57,10 +57,12 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 250,
     "[git-commit]": {
+    
+        
 
         "editor.rulers": [
             72
         ],
         "workbench.editor.restoreViewState": false
-    }
+    },
 }

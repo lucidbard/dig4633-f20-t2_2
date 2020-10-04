@@ -3,6 +3,7 @@ This repository is based off of the current VRTK Master repository, and has been
 
 ## Description
 
+<<<<<<< HEAD
 The scene can be found here: Example Scene
 
 Our team built these features:
@@ -14,3 +15,21 @@ Team member: <Derrick>
 Team member: <Derrick>
 
 Also credit to Meshtint for the Toon Chicken prefab.
+=======
+The scene can be found here: Fun Farm
+
+Our team built these features:
+
+### Feature 1: Paul's Pumpkin - Find the Pumpkin Key for the Door to be delivered to Paul the Scarecrow.
+Team member: Clarisse Cockrill 
+
+### Feature 2: <description>
+Team member: <Name>
+  
+### Feature 3: <description>
+Team member: <Name>
+  
+  
+  
+Bugs: We had an issue with merging the files together. We were able to eliminate any known bugs, but our attempt to merge the project together became difficult - we tried to intigrate and merge, but we had conflicts. So - we tried and we recommend looking at each individual branch to see what we did and have fun.
+>>>>>>> main
