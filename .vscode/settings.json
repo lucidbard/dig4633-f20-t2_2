@@ -57,6 +57,7 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 250,
     "[git-commit]": {
+    
         
 
         "editor.rulers": [
