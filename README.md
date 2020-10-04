@@ -3,6 +3,19 @@ This repository is based off of the current VRTK Master repository, and has been
 
 ## Description
 
+<<<<<<< HEAD
+The scene can be found here: Example Scene
+
+Our team built these features:
+
+### Feature 1: <Chicken Collecting: The interactivity here is to grab some chickens & place them into the nearby coop area.>
+Team member: <Derrick>
+
+### Feature 2: <Close the Gate: The interactivity here is to close the gate so logically, the chickens won't escape again. I attempted to make it close & open more cleanly but could not.>
+Team member: <Derrick>
+
+Also credit to Meshtint for the Toon Chicken prefab.
+=======
 The scene can be found here: Fun Farm
 
 Our team built these features:
@@ -19,3 +32,4 @@ Team member: <Name>
   
   
 Bugs: We had an issue with merging the files together. We were able to eliminate any known bugs, but our attempt to merge the project together became difficult - we tried to intigrate and merge, but we had conflicts. So - we tried and we recommend looking at each individual branch to see what we did and have fun.
+>>>>>>> main

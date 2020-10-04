@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
+  - Chicken
+=======
   - Pumpkin
+>>>>>>> main
   layers:
   - Default
   - TransparentFX
